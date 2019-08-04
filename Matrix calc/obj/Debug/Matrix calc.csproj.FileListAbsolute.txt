@@ -1,0 +1,27 @@
+c:\users\евгений селезнев\documents\visual studio 2015\Projects\Matrix calc\Matrix calc\bin\Debug\Matrix calc.exe.config
+c:\users\евгений селезнев\documents\visual studio 2015\Projects\Matrix calc\Matrix calc\bin\Debug\Matrix calc.exe
+c:\users\евгений селезнев\documents\visual studio 2015\Projects\Matrix calc\Matrix calc\bin\Debug\Matrix calc.pdb
+c:\users\евгений селезнев\documents\visual studio 2015\Projects\Matrix calc\Matrix calc\obj\Debug\Matrix calc.csprojResolveAssemblyReference.cache
+c:\users\евгений селезнев\documents\visual studio 2015\Projects\Matrix calc\Matrix calc\obj\Debug\Matrix_calc.Form1.resources
+c:\users\евгений селезнев\documents\visual studio 2015\Projects\Matrix calc\Matrix calc\obj\Debug\Matrix_calc.Properties.Resources.resources
+c:\users\евгений селезнев\documents\visual studio 2015\Projects\Matrix calc\Matrix calc\obj\Debug\Matrix calc.csproj.GenerateResource.Cache
+c:\users\евгений селезнев\documents\visual studio 2015\Projects\Matrix calc\Matrix calc\obj\Debug\Matrix calc.exe
+c:\users\евгений селезнев\documents\visual studio 2015\Projects\Matrix calc\Matrix calc\obj\Debug\Matrix calc.pdb
+C:\Users\Night\Desktop\Projects\Matrix calc\Matrix calc\bin\Debug\Matrix calc.exe.config
+C:\Users\Night\Desktop\Projects\Matrix calc\Matrix calc\obj\Debug\Matrix calc.exe
+C:\Users\Night\Desktop\Projects\Matrix calc\Matrix calc\obj\Debug\Matrix calc.pdb
+C:\Users\Night\Desktop\Projects\Matrix calc\Matrix calc\bin\Debug\Matrix calc.exe
+C:\Users\Night\Desktop\Projects\Matrix calc\Matrix calc\bin\Debug\Matrix calc.pdb
+C:\Users\Night\Desktop\Projects\Matrix calc\Matrix calc\obj\Debug\Matrix calc.csprojResolveAssemblyReference.cache
+C:\Users\Night\Desktop\Projects\Matrix calc\Matrix calc\obj\Debug\Matrix_calc.Form1.resources
+C:\Users\Night\Desktop\Projects\Matrix calc\Matrix calc\obj\Debug\Matrix_calc.Properties.Resources.resources
+C:\Users\Night\Desktop\Projects\Matrix calc\Matrix calc\obj\Debug\Matrix calc.csproj.GenerateResource.Cache
+C:\Users\Night\Desktop\Matrix calc\Matrix calc\bin\Debug\Matrix calc.exe.config
+C:\Users\Night\Desktop\Matrix calc\Matrix calc\obj\Debug\Matrix calc.exe
+C:\Users\Night\Desktop\Matrix calc\Matrix calc\obj\Debug\Matrix calc.pdb
+C:\Users\Night\Desktop\Matrix calc\Matrix calc\bin\Debug\Matrix calc.exe
+C:\Users\Night\Desktop\Matrix calc\Matrix calc\bin\Debug\Matrix calc.pdb
+C:\Users\Night\Desktop\Matrix calc\Matrix calc\obj\Debug\Matrix calc.csprojResolveAssemblyReference.cache
+C:\Users\Night\Desktop\Matrix calc\Matrix calc\obj\Debug\Matrix_calc.Form1.resources
+C:\Users\Night\Desktop\Matrix calc\Matrix calc\obj\Debug\Matrix_calc.Properties.Resources.resources
+C:\Users\Night\Desktop\Matrix calc\Matrix calc\obj\Debug\Matrix calc.csproj.GenerateResource.Cache
